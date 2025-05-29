@@ -8,7 +8,7 @@
 - anything in the tutorial that is confusing, tricky, or otherwise unclear
 - any missing content required to set up the run
 
-Feel free to:
+**Feel free to:**
 - co-work, collaborate, research, or otherwise ask for help
 - DM @ Tamsin Rogers on Slack with C-PAC-specific questions
 - *please include a description of any additional steps taken in your notes*
