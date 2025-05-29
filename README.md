@@ -1,6 +1,6 @@
 # cpac-collab
 
-**Refer to: https://fcp-indi.github.io/docs/latest/user/quick and follow along with the QuickStart guide to kick off a test C-PAC run**
+**Refer to: https://fcp-indi.github.io/docs/latest/user/quick and follow along with the original C-PAC QuickStart guide to kick off a test C-PAC run**
 - use a raw data subject of your choice (suggest ABCD data or anything from [S3](https://fcp-indi.s3.amazonaws.com/index.html#data/Projects/))
 - use the fmriprep-options config
 
