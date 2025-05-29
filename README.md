@@ -10,5 +10,6 @@
 
 **Feel free to:**
 - co-work, collaborate, research, or otherwise ask for help
+- reference https://fcp-indi.github.io/cpac-docs/index.html for updated documentation (incomplete)
 - DM @ Tamsin Rogers on Slack with C-PAC-specific questions
 - *please include a description of any additional steps taken in your notes*
