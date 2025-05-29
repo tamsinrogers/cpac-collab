@@ -6,7 +6,7 @@
 - run on an HCP or locally, but cancel the job once it starts so we don't blow up any allocations :)
 - if you have never used C-PAC before, focus on [downloading the Docker/Singularity image](https://fcp-indi.github.io/docs/latest/user/quick#:~:text=for%20those%20packages.-,Download%20/%20Upgrade%20C%2DPAC%20with%20cpac,-%C2%B6) as a first step
 
-**Start [here](https://github.com/tamsinrogers/cpac-collab/issues/1). Create a GH sub-issue with your name (assign yourself), and in it, take note of:**
+**Start [here](https://github.com/tamsinrogers/cpac-collab/issues/1). Create a GH sub-issue with your name (assign yourself), and in it, document your process.  Be sure to take note of:**
 - anything in the tutorial that is confusing, tricky, or otherwise unclear
 - any missing content required to set up the run, or additional steps you took
 
