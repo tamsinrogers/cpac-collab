@@ -15,3 +15,5 @@
 - reference the [updated C-PAC documentation](https://fcp-indi.github.io/cpac-docs/index.html) (in progress)
 - DM @ Tamsin Rogers on Slack with C-PAC-specific questions
 - *please include a description of any additional steps taken in your notes*
+
+**If you have already mastered C-PAC setup/runs, please still participate in this exercise, using a [PBJ Programming](https://medium.com/@monipip3/how-i-made-a-pbj-sandwich-with-python-99cb3b0a4923) mindset.  Would you still be as successful if you were relying *only* on the instructions given by the guide?  What could be improved?**
