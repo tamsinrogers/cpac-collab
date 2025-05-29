@@ -1,5 +1,7 @@
 # cpac-collab
 
+**This repo is part of a collaborative CMI Hackathon project session.**
+
 **Refer to: [the original C-PAC QuickStart guide](https://fcp-indi.github.io/docs/latest/user/quick) and follow along to kick off a test C-PAC run**
 - use a raw data subject of your choice (suggest ABCD data (`ocean/projects/med220004p/shared/data_raw/ABCD/imaging`) or anything from [S3](https://fcp-indi.s3.amazonaws.com/index.html#data/Projects/))
 - use the [fmriprep-options config](https://fcp-indi.github.io/docs/latest/user/pipelines/preconfig)
